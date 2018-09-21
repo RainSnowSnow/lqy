@@ -1,8 +1,4 @@
-
-<template>
-  <Card>
-    <p slot="title">
-      <Icon type=" icon iconfont fcshop-shangpin"></Icon>
+﻿  <Icon type=" icon iconfont fcshop-shangpin"></Icon>
         用户留言详情
     </p>
     <div>

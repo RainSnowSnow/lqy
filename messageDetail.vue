@@ -1,6 +1,5 @@
 ﻿  <Icon type=" icon iconfont fcshop-shangpin"></Icon>
-        用户留言详情
-    </p>
+  </p>
     <div>
       <Form ref="formValidate" :label-width="180">
 

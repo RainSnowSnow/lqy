@@ -7,7 +7,7 @@
 
           <Col span="12" push="6">
           <FormItem label="昵称：">
-            <p class="expand">{{ row.User?row.User.n递四方速递发送的范德萨范德萨佛挡杀佛ickName:'无' }} </p>
+            <p class="expand">{{ row.User?row.User:'无' }} </p>
           </FormItem>
           </Col>
         </Row>
